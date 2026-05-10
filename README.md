@@ -65,4 +65,9 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
