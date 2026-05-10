@@ -55,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
