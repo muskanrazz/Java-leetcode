@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/muskanrazz/Java-leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 <!---LeetCode Topics End-->
