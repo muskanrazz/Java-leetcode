@@ -7,7 +7,7 @@ class Solution {
       int xor1=0;
 
       for(int i=0; i<arr1.length; i++){
-        xor1= xor1^ (int)arr1[i];
+        xor1= xor1^ arr1[i];
       }
       
         for(int i=0; i<arr2.length; i++){
