@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
@@ -40,6 +41,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
