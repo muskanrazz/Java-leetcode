@@ -8,11 +8,13 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -33,11 +35,13 @@
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
