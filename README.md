@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
