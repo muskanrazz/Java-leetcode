@@ -2,7 +2,7 @@ class Solution {
     
     public int countParity(int x, int [] nums, int i){
         int count=0;              //T.C= O(N2)
-                                  // S.C=O(N)
+                          // S.C=O(N)
         int n =nums.length;
         if(x%2==0){
         for(int j=i+1; j<n; j++){
