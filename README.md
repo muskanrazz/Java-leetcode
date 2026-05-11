@@ -74,6 +74,7 @@
 | [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/muskanrazz/Java-leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/muskanrazz/Java-leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Number Theory
@@ -93,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/muskanrazz/Java-leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
