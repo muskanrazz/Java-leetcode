@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/muskanrazz/Java-leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 ## Sorting
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -83,6 +85,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
