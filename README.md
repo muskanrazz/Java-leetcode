@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -36,6 +37,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -44,6 +46,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
