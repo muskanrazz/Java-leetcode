@@ -1,11 +1,16 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        int sqrt=(int) Math.sqrt(num);
-        for(int i=1; i<=sqrt; i++){
-            if(i*i==num){
-                return true;
-            }
+       long low =1;
+       long high = num;
+        while(low<=high){
+            long mid = (low + high)/2; 
+            long ans = mid * mid;
+            if(ans==(long)num) return true;
+
+            else if(ans>(long)num) high = mid - 1;
+            else low = mid + 1;
         }
         return false;
+       
     }
 }
