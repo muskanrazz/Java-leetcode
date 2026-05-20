@@ -12,6 +12,6 @@ class Solution {
 
        else low =mid+1;
        }
-       return low;  // why because the intersection of low <high
+       return low;  // why because the intersection of low & high is always low<high
     }
 }
