@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/muskanrazz/Java-leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -142,4 +143,8 @@
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
