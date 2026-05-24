@@ -18,6 +18,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muskanrazz/Java-leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 ## Hash Table
@@ -95,6 +96,7 @@
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2427-number-of-common-factors](https://github.com/muskanrazz/Java-leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/muskanrazz/Java-leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/muskanrazz/Java-leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
