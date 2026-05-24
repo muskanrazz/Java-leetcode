@@ -3,11 +3,12 @@ class Solution {
        int n= people.length;
        // T.C = NlogN + O(N)
      Arrays.sort(people);  // sort dunc complexity is NlogN
+     int low =0;
+     int high = n-1;
      int count=0;
-     int low=0;
-     int high=n-1;
+
      while(low<=high){
-        if(people[low]+people[high]<=limit){
+        if(people[low] + people[high]<=limit){
             count++;
             low++;
             high--;
@@ -17,6 +18,6 @@ class Solution {
             high--;
         }
      }
-     return count;
+        return count;
     }
 }
