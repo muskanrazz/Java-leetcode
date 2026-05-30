@@ -22,6 +22,7 @@
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
@@ -146,9 +147,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 <!---LeetCode Topics End-->
