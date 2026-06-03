@@ -7,14 +7,11 @@ class Solution {
 
        while(n!=0){
           int rem = n%10;
-          sum = sum+rem;
         map.put(rem, map.getOrDefault(rem, 0)+1);
          n= n/10;
        }
         for(int key: map.keySet()){
-        if(key * map.get(key)>0){
-        
-        }
+         sum = sum + key * map.get(key);
        }
          return sum;
     }
