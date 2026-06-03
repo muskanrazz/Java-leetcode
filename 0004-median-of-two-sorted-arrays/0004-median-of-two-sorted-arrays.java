@@ -12,10 +12,12 @@ class Solution {
         Collections.sort(list);
 
         int n = list.size();
-        if (n % 2 == 1) {
-            return list.get(n / 2);
+        if(n % 2 == 0) {
+             return (list.get(n / 2) + list.get(n / 2 - 1)) / 2.0;
+        }
+        else{
+           return list.get(n / 2);
         }
 
-        return (list.get(n / 2) + list.get(n / 2 - 1)) / 2.0;
     }
 }
