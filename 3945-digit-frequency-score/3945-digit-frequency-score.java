@@ -5,14 +5,14 @@ class Solution {
 
     int sum =0;
 
-       while(n!=0){
-          int rem = n%10;
-        map.put(rem, map.getOrDefault(rem, 0)+1);
-         n= n/10;
-       }
-        for(int key: map.keySet()){
-         sum = sum + key * map.get(key);
-       }
-         return sum;
+    while(n!=0){
+        int rem = n%10;
+        map.put(rem, map.getOrDefault(rem, 0)+ 1);
+        n= n/10;
+    }
+    for(int key: map.keySet()){
+        sum = sum + key*map.get(key);
+    }
+    return sum;
     }
 }
