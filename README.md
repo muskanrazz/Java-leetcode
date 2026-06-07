@@ -38,6 +38,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
+| [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
