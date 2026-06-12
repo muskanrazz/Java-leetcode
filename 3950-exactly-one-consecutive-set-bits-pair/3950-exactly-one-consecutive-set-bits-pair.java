@@ -7,9 +7,8 @@ class Solution {
                 count++;
             }
         }
-        if(count==1) return true;
         
-        return false;
+        return count==1; //we can use this on place of if & else
 
         
     }
