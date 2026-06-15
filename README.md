@@ -61,6 +61,7 @@
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/muskanrazz/Java-leetcode/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
