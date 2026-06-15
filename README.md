@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1446-consecutive-characters](https://github.com/muskanrazz/Java-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
