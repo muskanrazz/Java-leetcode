@@ -52,6 +52,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1446-consecutive-characters](https://github.com/muskanrazz/Java-leetcode/tree/main/1446-consecutive-characters/) | Easy |
@@ -139,6 +140,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -182,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
