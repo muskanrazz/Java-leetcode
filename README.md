@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskanrazz/Java-leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -146,6 +147,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/muskanrazz/Java-leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
