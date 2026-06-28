@@ -22,6 +22,7 @@
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskanrazz/Java-leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -173,6 +174,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -197,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
