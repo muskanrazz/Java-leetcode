@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/muskanrazz/Java-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/muskanrazz/Java-leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -169,6 +170,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -192,5 +194,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
