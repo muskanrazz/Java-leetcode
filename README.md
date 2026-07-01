@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/muskanrazz/Java-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/muskanrazz/Java-leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -66,6 +67,7 @@
 | [0191-number-of-1-bits](https://github.com/muskanrazz/Java-leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/muskanrazz/Java-leetcode/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/muskanrazz/Java-leetcode/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 ## Sorting
@@ -87,6 +89,7 @@
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/muskanrazz/Java-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -175,6 +178,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -201,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
