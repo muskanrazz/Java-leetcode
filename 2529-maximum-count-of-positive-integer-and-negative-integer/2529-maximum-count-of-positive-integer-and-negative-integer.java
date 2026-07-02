@@ -6,7 +6,7 @@ class Solution {
         
         for(int i=0; i<n; i++){
             if(nums[i]<0)  po++;
-           if(nums[i]>0) ne++;
+           else if(nums[i]>0) ne++;
         }
         return Math.max(po, ne);
 
