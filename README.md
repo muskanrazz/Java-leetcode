@@ -25,6 +25,7 @@
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskanrazz/Java-leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -107,6 +108,7 @@
 | [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/muskanrazz/Java-leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/muskanrazz/Java-leetcode/tree/main/0704-binary-search/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@
 | [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
