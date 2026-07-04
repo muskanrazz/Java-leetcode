@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskanrazz/Java-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -132,6 +133,7 @@
 | [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/muskanrazz/Java-leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/muskanrazz/Java-leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
