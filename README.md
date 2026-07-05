@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/muskanrazz/Java-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/muskanrazz/Java-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0575-distribute-candies](https://github.com/muskanrazz/Java-leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/muskanrazz/Java-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/muskanrazz/Java-leetcode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0575-distribute-candies](https://github.com/muskanrazz/Java-leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muskanrazz/Java-leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
