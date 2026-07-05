@@ -32,6 +32,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskanrazz/Java-leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muskanrazz/Java-leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -87,6 +88,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/muskanrazz/Java-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/muskanrazz/Java-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +236,8 @@
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/muskanrazz/Java-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
