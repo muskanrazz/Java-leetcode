@@ -28,6 +28,7 @@
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskanrazz/Java-leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -198,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -228,4 +230,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/muskanrazz/Java-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
