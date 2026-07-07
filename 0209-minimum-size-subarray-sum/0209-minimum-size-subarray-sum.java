@@ -6,16 +6,17 @@ class Solution {
         int window=Integer.MAX_VALUE;
 
         for(int right=0; right<n; right++){
-            currsum = currsum + nums[right]; // EXPAND
-        
-        while(currsum>=target){ // SHRINK
-            // update the window
-            window= Math.min(window, right-left+1);
-            currsum= currsum - nums[left];
-            left++;
-        }
+            currsum = currsum + nums[right];
+
+            while(currsum>=target){
+                currsum = currsum - nums[left];
+                window= Math.min(window, (right-left+1));
+                left++;
+                
+            }
         }
         if(window==Integer.MAX_VALUE) return 0;
         return window;
+
     }
 }
