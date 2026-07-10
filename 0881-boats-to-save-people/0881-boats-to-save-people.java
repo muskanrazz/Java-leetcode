@@ -4,6 +4,7 @@ class Solution {
       int low=0;
       int high = n-1;
       int count=0;
+      Arrays.sort(people);
 
       while(low<=high){
         if(people[low] + people[high]<=limit){
@@ -13,7 +14,7 @@ class Solution {
         }
         else {
             count++;
-            low++;
+            high--;
       }
       }
       return count;
