@@ -13,7 +13,7 @@ class Solution {
                 high = mid;
             }
         }
-        return low;
+        return high;
         // low issliye q ki ek tym ho skta jisme low or high dono ek place pr ho
     }
 }
