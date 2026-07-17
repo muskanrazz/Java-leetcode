@@ -176,6 +176,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/muskanrazz/Java-leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muskanrazz/Java-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
