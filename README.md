@@ -47,6 +47,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3024-type-of-triangle](https://github.com/muskanrazz/Java-leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -108,6 +109,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [3024-type-of-triangle](https://github.com/muskanrazz/Java-leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/muskanrazz/Java-leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/muskanrazz/Java-leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3024-type-of-triangle](https://github.com/muskanrazz/Java-leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muskanrazz/Java-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
