@@ -51,6 +51,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/muskanrazz/Java-leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muskanrazz/Java-leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
@@ -104,6 +106,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +219,7 @@
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1929-concatenation-of-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
