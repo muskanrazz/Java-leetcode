@@ -69,6 +69,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muskanrazz/Java-leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/muskanrazz/Java-leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/muskanrazz/Java-leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -85,6 +86,7 @@
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1446-consecutive-characters](https://github.com/muskanrazz/Java-leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/muskanrazz/Java-leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/muskanrazz/Java-leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/muskanrazz/Java-leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Bit Manipulation
