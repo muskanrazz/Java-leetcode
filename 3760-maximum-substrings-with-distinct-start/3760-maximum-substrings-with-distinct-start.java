@@ -1,11 +1,12 @@
 class Solution {
     public int maxDistinct(String s) {
         Set<Character> set = new HashSet<>();
+       char[] ch = s.toCharArray();
 
-        for(int i=0; i<s.length(); i++){
-            set.add(s.charAt(i));
-        }
-        return set.size();
+       for(char ele:ch){
+          set.add(ele);
+       }
+       return set.size();
 
     }
 }
