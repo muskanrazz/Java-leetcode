@@ -52,6 +52,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/muskanrazz/Java-leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/muskanrazz/Java-leetcode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -112,6 +113,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/muskanrazz/Java-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [3024-type-of-triangle](https://github.com/muskanrazz/Java-leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/muskanrazz/Java-leetcode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,12 +148,14 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/muskanrazz/Java-leetcode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muskanrazz/Java-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/muskanrazz/Java-leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/muskanrazz/Java-leetcode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/muskanrazz/Java-leetcode/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
