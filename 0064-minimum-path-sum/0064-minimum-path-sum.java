@@ -4,7 +4,6 @@ class Solution {
         int n = grid[0].length;
         int ans [][]=new int[m][n];
         ans[0][0]= grid[0][0];
-
         // first filled 0th row
         for(int i=1; i<n; i++){
             ans[0] [i]= ans [0] [i-1] + grid[0] [i];
