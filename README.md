@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/muskanrazz/Java-leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1446-consecutive-characters](https://github.com/muskanrazz/Java-leetcode/tree/main/1446-consecutive-characters/) | Easy |
@@ -179,6 +180,7 @@
 | [0050-powx-n](https://github.com/muskanrazz/Java-leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/muskanrazz/Java-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/muskanrazz/Java-leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
