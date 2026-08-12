@@ -301,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
