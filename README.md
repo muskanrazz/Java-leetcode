@@ -221,6 +221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/muskanrazz/Java-leetcode/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/muskanrazz/Java-leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -303,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/muskanrazz/Java-leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
