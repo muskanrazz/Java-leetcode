@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/muskanrazz/Java-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -128,6 +129,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muskanrazz/Java-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
@@ -300,10 +302,15 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/muskanrazz/Java-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
