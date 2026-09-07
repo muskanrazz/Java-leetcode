@@ -60,6 +60,7 @@
 | [3842-toggle-light-bulbs](https://github.com/muskanrazz/Java-leetcode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/muskanrazz/Java-leetcode/tree/main/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/muskanrazz/Java-leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/muskanrazz/Java-leetcode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muskanrazz/Java-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/muskanrazz/Java-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/muskanrazz/Java-leetcode/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
