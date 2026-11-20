@@ -54,6 +54,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/muskanrazz/Java-leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muskanrazz/Java-leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/muskanrazz/Java-leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3024-type-of-triangle](https://github.com/muskanrazz/Java-leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -269,6 +270,7 @@
 | [0238-product-of-array-except-self](https://github.com/muskanrazz/Java-leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/muskanrazz/Java-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/muskanrazz/Java-leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/muskanrazz/Java-leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
