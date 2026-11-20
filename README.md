@@ -287,6 +287,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/muskanrazz/Java-leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0052-n-queens-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +338,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/muskanrazz/Java-leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
