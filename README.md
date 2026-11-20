@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskanrazz/Java-leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
@@ -185,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/muskanrazz/Java-leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/muskanrazz/Java-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
@@ -284,6 +286,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
