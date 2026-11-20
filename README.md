@@ -319,4 +319,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/muskanrazz/Java-leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
