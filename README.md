@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/muskanrazz/Java-leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/muskanrazz/Java-leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0344-reverse-string](https://github.com/muskanrazz/Java-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/muskanrazz/Java-leetcode/tree/main/0389-find-the-difference/) | Easy |
