@@ -15,6 +15,7 @@
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/muskanrazz/Java-leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/muskanrazz/Java-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/muskanrazz/Java-leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/muskanrazz/Java-leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/muskanrazz/Java-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/muskanrazz/Java-leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -295,6 +297,7 @@
 | [0048-rotate-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/muskanrazz/Java-leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0832-flipping-an-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
