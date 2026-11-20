@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskanrazz/Java-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/muskanrazz/Java-leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/muskanrazz/Java-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/muskanrazz/Java-leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/muskanrazz/Java-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/muskanrazz/Java-leetcode/tree/main/0066-plus-one/) | Easy |
@@ -285,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/muskanrazz/Java-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/muskanrazz/Java-leetcode/tree/main/0051-n-queens/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,4 +333,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/muskanrazz/Java-leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/muskanrazz/Java-leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
