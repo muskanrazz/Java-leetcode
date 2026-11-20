@@ -39,6 +39,7 @@
 | [0905-sort-array-by-parity](https://github.com/muskanrazz/Java-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/muskanrazz/Java-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/muskanrazz/Java-leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/muskanrazz/Java-leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/muskanrazz/Java-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/muskanrazz/Java-leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskanrazz/Java-leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -193,6 +194,7 @@
 | [0231-power-of-two](https://github.com/muskanrazz/Java-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/muskanrazz/Java-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/muskanrazz/Java-leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/muskanrazz/Java-leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/muskanrazz/Java-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2427-number-of-common-factors](https://github.com/muskanrazz/Java-leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muskanrazz/Java-leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -236,6 +238,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/muskanrazz/Java-leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/muskanrazz/Java-leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
